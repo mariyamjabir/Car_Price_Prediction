@@ -1,5 +1,8 @@
 # Car_Price_Prediction
 
+## Introduction
+The Car Price Prediction project aims to leverage machine learning techniques to develop a predictive model for estimating the prices of used cars. In the dynamic market of pre-owned vehicles, accurately determining the fair market value of a car is crucial for both sellers and buyers. This project explores the relationships between various features, such as specifications, location, fuel type, transmission, and owner type, to create a robust model capable of providing reliable price predictions.
+
 ## Objective
 The objective of this project is to build a machine learning model to predict the prices of used cars based on various features such as the car's specifications, location, fuel type, transmission, and owner type. The goal is to create an accurate and reliable model that can assist in estimating the market value of a used car.
 
